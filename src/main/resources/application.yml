@@ -1,0 +1,5 @@
+firebase:
+  database:
+    url: https://<DATABASE_NAME>.firebaseio.com/
+  config:
+    path: serviceAccountKey.json
